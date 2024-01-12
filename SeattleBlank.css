@@ -1,0 +1,24 @@
+#suiteBarDelta,
+#s4-ribbonrow,
+#sideNavBox,
+#s4-titlerow {
+  display: none !important;
+}
+#contentBox {
+  margin-right: 0px !important;
+  margin-left: 0px !important;
+  min-width: 100% !important;
+}
+#s4-workspace {
+  overflow-x: hidden !important;
+  overflow-y: auto !important;
+}
+
+.ms-webpart-chrome-vertical,
+div.ms-webpart-cell-vertical-inline-table,
+.ms-webpart-zone {
+  display: block !important;
+}
+#contentRow {
+  padding-top: 0px !important;
+}
